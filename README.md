@@ -25,10 +25,13 @@ In my role as a Procurement Specialist at Atlassian, I bring my skills in busine
 **Bachelor of Business Administration** in Integrated Supply Management :bar_chart:
 
 ## :computer: I have experience with:
-[![My Skills](https://skills.thijs.gg/icons?i=python,mysql,linux,html,css,javascript&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=mysql,linux,html,css,javascript&theme=light)](https://skills.thijs.gg)
 
 ## 🌱 I’m currently learning:
-[![My Skills](https://skills.thijs.gg/icons?i=django,aws,postgres&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=python&theme=light)](https://skills.thijs.gg)
+
+## 🌱 What I want to learn in the future:
+[![My Skills](https://skills.thijs.gg/icons?i=react,django,aws&theme=light)](https://skills.thijs.gg)
 
 ## 🔭 I’m currently working towards:
 - Jira Administration Cloud Certification
