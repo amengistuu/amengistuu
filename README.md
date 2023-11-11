@@ -28,10 +28,10 @@ In my role as a Procurement Specialist at Atlassian, I bring my skills in busine
 [![My Skills](https://skills.thijs.gg/icons?i=mysql,linux,html,css,javascript&theme=light)](https://skills.thijs.gg)
 
 ## 🌱 I’m currently learning:
-[![My Skills](https://skills.thijs.gg/icons?i=python&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=python,figma,webflow&theme=light)](https://skills.thijs.gg)
 
 ## 🌱 What I want to learn in the future:
-[![My Skills](https://skills.thijs.gg/icons?i=react,django,aws&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=react,typescript,gcp&theme=light)](https://skills.thijs.gg)
 
 ## 🔭 I’m currently working towards:
 - Jira Administration Cloud Certification
