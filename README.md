@@ -34,8 +34,9 @@ In my role as a Procurement Specialist at Atlassian, I bring my skills in busine
 [![My Skills](https://skills.thijs.gg/icons?i=react,typescript,gcp&theme=light)](https://skills.thijs.gg)
 
 ## 🔭 I’m currently working towards:
-- Jira Administration Cloud Certification
+- Google Digital Marketing and E-commerce Certification
 - IBM Data Analyst Professional Certification
+- Vako Shvili's Complete Web Design: From Figma to Webflow
   
 ## 📫 How to reach me: 
 - Email: abraham.a.mengistu@gmail.com
