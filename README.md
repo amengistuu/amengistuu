@@ -24,7 +24,7 @@ In my role as a Procurement Specialist at Atlassian, I bring my skills in busine
 ## :mortar_board: My education is in:
 **Bachelor of Business Administration** in Integrated Supply Management :bar_chart:
 
-## :computer: I have experience with:
+## 💻 I have experience with:
 [![My Skills](https://skills.thijs.gg/icons?i=mysql,linux,python&theme=light)](https://skills.thijs.gg)
 
 ## 🌱 I’m currently learning:
