@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## :man: About Me
+## 🧑🏾‍🦱 About Me
 I'm passionate about procurement, business systems, and the impact of technology on our world!
 
 In my role as a Procurement Specialist at Atlassian, I bring my skills in business analysis and data analytics to optimize procurement. I work on setting up Jira configurations, workflows, and automations, ensuring smooth procurement processes. Additionally, I define business requirements, collaborate with software developers, and conduct User Acceptance Testing (UAT) to refine our tools and enhance user experience.
 
-## :mortar_board: My education is in:
+## 📝 My education is in:
 **Bachelor of Business Administration** in Integrated Supply Management :bar_chart:
 
 ## 💻 I have experience with:
