@@ -31,7 +31,7 @@ In my role as a Procurement Specialist at Atlassian, I bring my skills in busine
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,javascript,figma&theme=light)](https://skills.thijs.gg)
 
 ## 🌱 What I want to learn in the future:
-[![My Skills](https://skills.thijs.gg/icons?i=react,nodejs,express,mongodb,tailwind,typescript,gcp&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=react,nodejs,express,postgres,bootstrap,typescript,gcp&theme=light)](https://skills.thijs.gg)
 
 ## 🔭 I’m currently working towards:
 - Google Digital Marketing and E-commerce Certification
